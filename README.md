@@ -1,0 +1,2 @@
+# equilibria
+Potion brewing game
